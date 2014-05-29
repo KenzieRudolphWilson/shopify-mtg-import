@@ -1,1 +1,0 @@
-The actual JvC Cards do not have a white border around the Mythic Rare icon, while all other Mythic Rare symbols do. The alternate version is one with the white border.
