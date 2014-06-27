@@ -57,6 +57,10 @@ nameList = getNameList()
 cap = cv2.VideoCapture(0)
 t = 20
 thresh =1
+x = 100
+y = 100
+length = 200
+height = 50
 while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()
@@ -67,12 +71,28 @@ while(True):
     except:
     	pass
 
-    
-    #cv2.imshow('edges',edges)
-    x = 100
-    y = 100
-    length = 200
-    height = 50
+    key = cv2.waitKey(1)
+    if key & 0xFF == ord('w'):
+        y -= 3
+    if key & 0xFF == ord('s'):
+        y += 3
+    if key & 0xFF == ord('d'):
+        x += 3
+    if key & 0xFF == ord('a'):
+        s -= 3
+    if key & 0xFF == ord('q'):
+        break
+    if key & 0xFF == ord('t'):
+        t += 2
+    if key & 0xFF == ord('g'):
+        t -= 2
+    if key & 0xFF == ord('y'):
+        thresh = -thresh
+    if key & 0xFF == ord('p'):
+        cv2.imwrite('capture.png', cropped)
+        text = OCR.giveMeText()
+        print "Read Text :" + text
+        print "Most Similar :" + checkForCard(text, nameList)
     cropped = crop(frame, x, y, length, height)
     frame = drawCaptureBox(frame, x, y, length, height)
 	
@@ -85,20 +105,7 @@ while(True):
     cv2.imshow('cropped',cropped)
 
 
-    key = cv2.waitKey(1)
-    if key & 0xFF == ord('q'):
-        break
-    if key & 0xFF == ord('t'):
-        t += 2
-    if key & 0xFF == ord('g'):
-        t -= 2
-    if key & 0xFF == ord('y'):
-    	thresh = -thresh
-    if key & 0xFF == ord('p'):
-        cv2.imwrite('capture.png', cropped)
-        text = OCR.giveMeText()
-        print "Read Text :" + text
-        print "Most Similar :" + checkForCard(text, nameList)
+
 
 
 # When everything done, release the capture
