@@ -9,7 +9,7 @@ import difflib as dl
 
 #rectangular crop
 def crop(image, x, y, length, height):
-    return image[(x):(x+length), (y):(y+height)]
+    return image[(y):(y+height), (x):(x+length)]
 
 #removes pixels from each edge
 def chopOffEdges(image, left, right, top, bottom):
@@ -49,14 +49,13 @@ def drawCaptureBox(image, x, y, length, height):
 
 def checkForCard(text, names):
     return findMostSimilar(text, names)
-    
 
 
 nameList = getNameList()
 
 cap = cv2.VideoCapture(0)
-t = 20
-thresh =1
+#t = 20
+thresh = True
 x = 100
 y = 100
 length = 200
@@ -65,12 +64,7 @@ while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()
 
-    # Our operations on the frame come here
-    try:
-    	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    except:
-    	pass
-
+    # High tech UI
     key = cv2.waitKey(1)
     if key & 0xFF == ord('w'):
         y -= 3
@@ -93,12 +87,16 @@ while(True):
         text = OCR.giveMeText()
         print "Read Text :" + text
         print "Most Similar :" + checkForCard(text, nameList)
+
+
     cropped = crop(frame, x, y, length, height)
     frame = drawCaptureBox(frame, x, y, length, height)
 	
-    if(thresh > 0):
-        cropped = cv2.cvtColor(cropped, cv2.COLOR_BGR2GRAY)    
-    	cropped = cv2.adaptiveThreshold(cropped, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY,15, t)
+    if(thresh):
+        cropped = cv2.cvtColor(cropped, cv2.COLOR_BGR2GRAY)
+        cropped = cv2.GaussianBlur(cropped,(1,1),0)
+        t,cropped = cv2.threshold(cropped,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU) 
+    	#cropped = cv2.adaptiveThreshold(cropped, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY,15, t)
 
     cropped = chopOffEdges(cropped, 2, 2, 2, 2)
     cv2.imshow('frame',frame)
