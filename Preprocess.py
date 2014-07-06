@@ -73,7 +73,7 @@ while(True):
     if key & 0xFF == ord('d'):
         x += 3
     if key & 0xFF == ord('a'):
-        s -= 3
+        x -= 3
     if key & 0xFF == ord('q'):
         break
     if key & 0xFF == ord('t'):
