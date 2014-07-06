@@ -5,6 +5,7 @@ import json
 import time
 import urllib
 import logging
+import unicodedata
 
 # Sometimes TCGPlayer uses non-standard names for its sets. Library of fixes!
 tcgSetURLFix = { "Limited Edition Alpha" : "alpha-edition", "Limited Edition Beta" : "beta-edition", "Magic 2010" : "magic-2010-(m10)", "Magic 2011" : "magic-2011-(m11)", "Magic 2012" : "magic-2012-(m12)", "Magic 2013" : "magic-2013-(m13)", "Magic 2014" : "magic-2014-m14", "Magic: The Gathering-Commander" : "commander" }
@@ -21,7 +22,7 @@ def getTCGPlayerPrices(cardName, cardSet):
     cardSet = tcgSetURLFix[cardSet]
   
   #   Open the TCGPlayer URL
-  tcgPlayerURL = "http://store.tcgplayer.com/magic/" + handleize(cardSet) + "/" + handleize(cardName)
+  tcgPlayerURL = "http://store.tcgplayer.com/magic/" + handleize(cardSet) + "/" + handleize(unicodedata.normalize('NFKD',cardName).encode('ascii','ignore'))
 
   htmlFile = urllib.urlopen(tcgPlayerURL)
   rawHTML = htmlFile.read()
@@ -55,14 +56,14 @@ shopify.ShopifyResource.set_site(shop_url)
 
 shop = shopify.Shop.current
 
-jsonData = open('2ED.json')
+jsonData = open('ARN.json')
 data = json.load(jsonData)
 jsonData.close()
 
 conditions = ["NM/M", "SP", "MP"]
 
 for j in range(0, len(data["cards"])):
-  print (data["cards"][j]["name"])
+  print (unicode(data["cards"][j]["name"]))
   #API CALL - Get a list of any products with the same handle. Should only ever return 1 result. Checking for dupes / variants
   print "    API Call."
   product = shopify.Product.find(handle="%s" % handleize(data["cards"][j]["name"]))

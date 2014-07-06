@@ -1,0 +1,1190 @@
+SET ===== Limited Edition AlphaSet Skip Code: 0
+Air Elemental
+    API Call.
+    Handle: air-elemental
+    Got API response.[product(321016037)]
+    Duplicate / Variant Detected -- MultiverseID: 94
+    Duplicate -- SKU: 94
+    Waiting...
+Ancestral Recall
+    API Call.
+    Handle: ancestral-recall
+    Got API response.[product(321016069)]
+    Duplicate / Variant Detected -- MultiverseID: 95
+    Duplicate -- SKU: 95
+    Waiting...
+Animate Artifact
+    API Call.
+    Handle: animate-artifact
+    Got API response.[product(321016097)]
+    Duplicate / Variant Detected -- MultiverseID: 96
+    Duplicate -- SKU: 96
+    Waiting...
+Animate Dead
+    API Call.
+    Handle: animate-dead
+    Got API response.[product(321016153)]
+    Duplicate / Variant Detected -- MultiverseID: 48
+    Duplicate -- SKU: 48
+    Waiting...
+Animate Wall
+    API Call.
+    Handle: animate-wall
+    Got API response.[product(321016213)]
+    Duplicate / Variant Detected -- MultiverseID: 232
+    Duplicate -- SKU: 232
+    Waiting...
+Ankh of Mishra
+    API Call.
+    Handle: ankh-of-mishra
+    Got API response.[product(321016265)]
+    Duplicate / Variant Detected -- MultiverseID: 1
+    Duplicate -- SKU: 1
+    Waiting...
+Armageddon
+    API Call.
+    Handle: armageddon
+    Got API response.[product(321016333)]
+    Duplicate / Variant Detected -- MultiverseID: 233
+    Duplicate -- SKU: 233
+    Waiting...
+Aspect of Wolf
+    API Call.
+    Handle: aspect-of-wolf
+    Got API response.[product(321016381)]
+    Duplicate / Variant Detected -- MultiverseID: 140
+    Duplicate -- SKU: 140
+    Waiting...
+Bad Moon
+    API Call.
+    Handle: bad-moon
+    Got API response.[product(321016441)]
+    Duplicate / Variant Detected -- MultiverseID: 49
+    Duplicate -- SKU: 49
+    Waiting...
+Badlands
+    API Call.
+    Handle: badlands
+    Got API response.[product(321016485)]
+    Duplicate / Variant Detected -- MultiverseID: 279
+    Duplicate -- SKU: 279
+    Waiting...
+Balance
+    API Call.
+    Handle: balance
+    Got API response.[product(321016509)]
+    Duplicate / Variant Detected -- MultiverseID: 234
+    Duplicate -- SKU: 234
+    Waiting...
+Basalt Monolith
+    API Call.
+    Handle: basalt-monolith
+    Got API response.[product(321016561)]
+    Duplicate / Variant Detected -- MultiverseID: 2
+    Duplicate -- SKU: 2
+    Waiting...
+Bayou
+    API Call.
+    Handle: bayou
+    Got API response.[product(321016613)]
+    Duplicate / Variant Detected -- MultiverseID: 280
+    Duplicate -- SKU: 280
+    Waiting...
+Benalish Hero
+    API Call.
+    Handle: benalish-hero
+    Got API response.[product(321016665)]
+    Duplicate / Variant Detected -- MultiverseID: 235
+    Duplicate -- SKU: 235
+    Waiting...
+Berserk
+    API Call.
+    Handle: berserk
+    Got API response.[product(321016709)]
+    Duplicate / Variant Detected -- MultiverseID: 141
+    Duplicate -- SKU: 141
+    Waiting...
+Birds of Paradise
+    API Call.
+    Handle: birds-of-paradise
+    Got API response.[product(321016757)]
+    Duplicate / Variant Detected -- MultiverseID: 142
+    Duplicate -- SKU: 142
+    Waiting...
+Black Knight
+    API Call.
+    Handle: black-knight
+    Got API response.[product(321016817)]
+    Duplicate / Variant Detected -- MultiverseID: 50
+    Duplicate -- SKU: 50
+    Waiting...
+Black Lotus
+    API Call.
+    Handle: black-lotus
+    Got API response.[product(321016841)]
+    Duplicate / Variant Detected -- MultiverseID: 3
+    Duplicate -- SKU: 3
+    Waiting...
+Black Vise
+    API Call.
+    Handle: black-vise
+    Got API response.[product(321016881)]
+    Duplicate / Variant Detected -- MultiverseID: 4
+    Duplicate -- SKU: 4
+    Waiting...
+Black Ward
+    API Call.
+    Handle: black-ward
+    Got API response.[product(321016901)]
+    Duplicate / Variant Detected -- MultiverseID: 236
+    Duplicate -- SKU: 236
+    Waiting...
+Blaze of Glory
+    API Call.
+    Handle: blaze-of-glory
+    Got API response.[product(321016933)]
+    Duplicate / Variant Detected -- MultiverseID: 237
+    Duplicate -- SKU: 237
+    Waiting...
+Blessing
+    API Call.
+    Handle: blessing
+    Got API response.[product(321016961)]
+    Duplicate / Variant Detected -- MultiverseID: 238
+    Duplicate -- SKU: 238
+    Waiting...
+Blue Elemental Blast
+    API Call.
+    Handle: blue-elemental-blast
+    Got API response.[product(321016993)]
+    Duplicate / Variant Detected -- MultiverseID: 97
+    Duplicate -- SKU: 97
+    Waiting...
+Blue Ward
+    API Call.
+    Handle: blue-ward
+    Got API response.[product(321017029)]
+    Duplicate / Variant Detected -- MultiverseID: 239
+    Duplicate -- SKU: 239
+    Waiting...
+Bog Wraith
+    API Call.
+    Handle: bog-wraith
+    Got API response.[product(321017065)]
+    Duplicate / Variant Detected -- MultiverseID: 51
+    Duplicate -- SKU: 51
+    Waiting...
+Braingeyser
+    API Call.
+    Handle: braingeyser
+    Got API response.[product(321017117)]
+    Duplicate / Variant Detected -- MultiverseID: 98
+    Duplicate -- SKU: 98
+    Waiting...
+Burrowing
+    API Call.
+    Handle: burrowing
+    Got API response.[product(321017149)]
+    Duplicate / Variant Detected -- MultiverseID: 186
+    Duplicate -- SKU: 186
+    Waiting...
+Camouflage
+    API Call.
+    Handle: camouflage
+    Got API response.[product(321017205)]
+    Duplicate / Variant Detected -- MultiverseID: 143
+    Duplicate -- SKU: 143
+    Waiting...
+Castle
+    API Call.
+    Handle: castle
+    Got API response.[product(321017261)]
+    Duplicate / Variant Detected -- MultiverseID: 240
+    Duplicate -- SKU: 240
+    Waiting...
+Celestial Prism
+    API Call.
+    Handle: celestial-prism
+    Got API response.[product(321017321)]
+    Duplicate / Variant Detected -- MultiverseID: 5
+    Duplicate -- SKU: 5
+    Waiting...
+Channel
+    API Call.
+    Handle: channel
+    Got API response.[product(321017393)]
+    Duplicate / Variant Detected -- MultiverseID: 144
+    Duplicate -- SKU: 144
+    Waiting...
+Chaos Orb
+    API Call.
+    Handle: chaos-orb
+    Got API response.[product(321017469)]
+    Duplicate / Variant Detected -- MultiverseID: 6
+    Duplicate -- SKU: 6
+    Waiting...
+Chaoslace
+    API Call.
+    Handle: chaoslace
+    Got API response.[product(321017541)]
+    Duplicate / Variant Detected -- MultiverseID: 187
+    Duplicate -- SKU: 187
+    Waiting...
+Circle of Protection: Blue
+    API Call.
+    Handle: circle-of-protection-blue
+    Got API response.[product(321017617)]
+    Duplicate / Variant Detected -- MultiverseID: 241
+    Duplicate -- SKU: 241
+    Waiting...
+Circle of Protection: Green
+    API Call.
+    Handle: circle-of-protection-green
+    Got API response.[product(321017693)]
+    Duplicate / Variant Detected -- MultiverseID: 242
+    Duplicate -- SKU: 242
+    Waiting...
+Circle of Protection: Red
+    API Call.
+    Handle: circle-of-protection-red
+    Got API response.[product(321017869)]
+    Duplicate / Variant Detected -- MultiverseID: 243
+    Duplicate -- SKU: 243
+    Waiting...
+Circle of Protection: White
+    API Call.
+    Handle: circle-of-protection-white
+    Got API response.[product(321017905)]
+    Duplicate / Variant Detected -- MultiverseID: 244
+    Duplicate -- SKU: 244
+    Waiting...
+Clockwork Beast
+    API Call.
+    Handle: clockwork-beast
+    Got API response.[product(321017969)]
+    Duplicate / Variant Detected -- MultiverseID: 7
+    Duplicate -- SKU: 7
+    Waiting...
+Clone
+    API Call.
+    Handle: clone
+    Got API response.[product(321018013)]
+    Duplicate / Variant Detected -- MultiverseID: 99
+    Duplicate -- SKU: 99
+    Waiting...
+Cockatrice
+    API Call.
+    Handle: cockatrice
+    Got API response.[product(321018069)]
+    Duplicate / Variant Detected -- MultiverseID: 145
+    Duplicate -- SKU: 145
+    Waiting...
+Consecrate Land
+    API Call.
+    Handle: consecrate-land
+    Got API response.[product(321018121)]
+    Duplicate / Variant Detected -- MultiverseID: 245
+    Duplicate -- SKU: 245
+    Waiting...
+Conservator
+    API Call.
+    Handle: conservator
+    Got API response.[product(321018849)]
+    Duplicate / Variant Detected -- MultiverseID: 8
+    Duplicate -- SKU: 8
+    Waiting...
+Contract from Below
+    API Call.
+    Handle: contract-from-below
+    Got API response.[product(321018909)]
+    Duplicate / Variant Detected -- MultiverseID: 52
+    Duplicate -- SKU: 52
+    Waiting...
+Control Magic
+    API Call.
+    Handle: control-magic
+    Got API response.[product(321018953)]
+    Duplicate / Variant Detected -- MultiverseID: 100
+    Duplicate -- SKU: 100
+    Waiting...
+Conversion
+    API Call.
+    Handle: conversion
+    Got API response.[product(321019013)]
+    Duplicate / Variant Detected -- MultiverseID: 246
+    Duplicate -- SKU: 246
+    Waiting...
+Copper Tablet
+    API Call.
+    Handle: copper-tablet
+    Got API response.[product(321019057)]
+    Duplicate / Variant Detected -- MultiverseID: 9
+    Duplicate -- SKU: 9
+    Waiting...
+Copy Artifact
+    API Call.
+    Handle: copy-artifact
+    Got API response.[product(321019117)]
+    Duplicate / Variant Detected -- MultiverseID: 101
+    Duplicate -- SKU: 101
+    Waiting...
+Counterspell
+    API Call.
+    Handle: counterspell
+    Got API response.[product(321019169)]
+    Duplicate / Variant Detected -- MultiverseID: 102
+    Duplicate -- SKU: 102
+    Waiting...
+Craw Wurm
+    API Call.
+    Handle: craw-wurm
+    Got API response.[product(321019245)]
+    Duplicate / Variant Detected -- MultiverseID: 146
+    Duplicate -- SKU: 146
+    Waiting...
+Creature Bond
+    API Call.
+    Handle: creature-bond
+    Got API response.[product(321019293)]
+    Duplicate / Variant Detected -- MultiverseID: 103
+    Duplicate -- SKU: 103
+    Waiting...
+Crusade
+    API Call.
+    Handle: crusade
+    Got API response.[product(321019357)]
+    Duplicate / Variant Detected -- MultiverseID: 247
+    Duplicate -- SKU: 247
+    Waiting...
+Crystal Rod
+    API Call.
+    Handle: crystal-rod
+    Got API response.[product(321019413)]
+    Duplicate / Variant Detected -- MultiverseID: 10
+    Duplicate -- SKU: 10
+    Waiting...
+Cursed Land
+    API Call.
+    Handle: cursed-land
+    Got API response.[product(321019437)]
+    Duplicate / Variant Detected -- MultiverseID: 53
+    Duplicate -- SKU: 53
+    Waiting...
+Cyclopean Tomb
+    API Call.
+    Handle: cyclopean-tomb
+    Got API response.[product(321019841)]
+    Duplicate / Variant Detected -- MultiverseID: 11
+    Duplicate -- SKU: 11
+    Waiting...
+Dark Ritual
+    API Call.
+    Handle: dark-ritual
+    Got API response.[product(321020045)]
+    Duplicate / Variant Detected -- MultiverseID: 54
+    Duplicate -- SKU: 54
+    Waiting...
+Darkpact
+    API Call.
+    Handle: darkpact
+    Got API response.[product(321020233)]
+    Duplicate / Variant Detected -- MultiverseID: 55
+    Duplicate -- SKU: 55
+    Waiting...
+Death Ward
+    API Call.
+    Handle: death-ward
+    Got API response.[product(321020269)]
+    Duplicate / Variant Detected -- MultiverseID: 248
+    Duplicate -- SKU: 248
+    Waiting...
+Deathgrip
+    API Call.
+    Handle: deathgrip
+    Got API response.[product(321020321)]
+    Duplicate / Variant Detected -- MultiverseID: 56
+    Duplicate -- SKU: 56
+    Waiting...
+Deathlace
+    API Call.
+    Handle: deathlace
+    Got API response.[product(321020357)]
+    Duplicate / Variant Detected -- MultiverseID: 57
+    Duplicate -- SKU: 57
+    Waiting...
+Demonic Attorney
+    API Call.
+    Handle: demonic-attorney
+    Got API response.[product(321020393)]
+    Duplicate / Variant Detected -- MultiverseID: 58
+    Duplicate -- SKU: 58
+    Waiting...
+Demonic Hordes
+    API Call.
+    Handle: demonic-hordes
+    Got API response.[product(321020437)]
+    Duplicate / Variant Detected -- MultiverseID: 59
+    Duplicate -- SKU: 59
+    Waiting...
+Demonic Tutor
+    API Call.
+    Handle: demonic-tutor
+    Got API response.[product(321020489)]
+    Duplicate / Variant Detected -- MultiverseID: 60
+    Duplicate -- SKU: 60
+    Waiting...
+Dingus Egg
+    API Call.
+    Handle: dingus-egg
+    Got API response.[product(321020549)]
+    Duplicate / Variant Detected -- MultiverseID: 12
+    Duplicate -- SKU: 12
+    Waiting...
+Disenchant
+    API Call.
+    Handle: disenchant
+    Got API response.[product(321020597)]
+    Duplicate / Variant Detected -- MultiverseID: 249
+    Duplicate -- SKU: 249
+    Waiting...
+Disintegrate
+    API Call.
+    Handle: disintegrate
+    Got API response.[product(321020621)]
+    Duplicate / Variant Detected -- MultiverseID: 188
+    Duplicate -- SKU: 188
+    Waiting...
+Disrupting Scepter
+    API Call.
+    Handle: disrupting-scepter
+    Got API response.[product(321020665)]
+    Duplicate / Variant Detected -- MultiverseID: 13
+    Duplicate -- SKU: 13
+    Waiting...
+Dragon Whelp
+    API Call.
+    Handle: dragon-whelp
+    Got API response.[product(321020725)]
+    Duplicate / Variant Detected -- MultiverseID: 189
+    Duplicate -- SKU: 189
+    Waiting...
+Drain Life
+    API Call.
+    Handle: drain-life
+    Got API response.[product(321020809)]
+    Duplicate / Variant Detected -- MultiverseID: 61
+    Duplicate -- SKU: 61
+    Waiting...
+Drain Power
+    API Call.
+    Handle: drain-power
+    Got API response.[product(321020873)]
+    Duplicate / Variant Detected -- MultiverseID: 104
+    Duplicate -- SKU: 104
+    Waiting...
+Drudge Skeletons
+    API Call.
+    Handle: drudge-skeletons
+    Got API response.[product(321020973)]
+    Duplicate / Variant Detected -- MultiverseID: 62
+    Duplicate -- SKU: 62
+    Waiting...
+Dwarven Demolition Team
+    API Call.
+    Handle: dwarven-demolition-team
+    Got API response.[product(321021045)]
+    Duplicate / Variant Detected -- MultiverseID: 190
+    Duplicate -- SKU: 190
+    Waiting...
+Dwarven Warriors
+    API Call.
+    Handle: dwarven-warriors
+    Got API response.[product(321021109)]
+    Duplicate / Variant Detected -- MultiverseID: 191
+    Duplicate -- SKU: 191
+    Waiting...
+Earth Elemental
+    API Call.
+    Handle: earth-elemental
+    Got API response.[product(321021185)]
+    Duplicate / Variant Detected -- MultiverseID: 192
+    Duplicate -- SKU: 192
+    Waiting...
+Earthbind
+    API Call.
+    Handle: earthbind
+    Got API response.[product(321021237)]
+    Duplicate / Variant Detected -- MultiverseID: 193
+    Duplicate -- SKU: 193
+    Waiting...
+Earthquake
+    API Call.
+    Handle: earthquake
+    Got API response.[product(321021297)]
+    Duplicate / Variant Detected -- MultiverseID: 194
+    Duplicate -- SKU: 194
+    Waiting...
+Elvish Archers
+    API Call.
+    Handle: elvish-archers
+    Got API response.[product(321021369)]
+    Duplicate / Variant Detected -- MultiverseID: 147
+    Duplicate -- SKU: 147
+    Waiting...
+Evil Presence
+    API Call.
+    Handle: evil-presence
+    Got API response.[product(321021445)]
+    Duplicate / Variant Detected -- MultiverseID: 63
+    Duplicate -- SKU: 63
+    Waiting...
+False Orders
+    API Call.
+    Handle: false-orders
+    Got API response.[product(321021521)]
+    Duplicate / Variant Detected -- MultiverseID: 195
+    Duplicate -- SKU: 195
+    Waiting...
+Farmstead
+    API Call.
+    Handle: farmstead
+    Got API response.[product(321021581)]
+    Duplicate / Variant Detected -- MultiverseID: 250
+    Duplicate -- SKU: 250
+    Waiting...
+Fastbond
+    API Call.
+    Handle: fastbond
+    Got API response.[product(321021629)]
+    Duplicate / Variant Detected -- MultiverseID: 148
+    Duplicate -- SKU: 148
+    Waiting...
+Fear
+    API Call.
+    Handle: fear
+    Got API response.[product(321021705)]
+    Duplicate / Variant Detected -- MultiverseID: 64
+    Duplicate -- SKU: 64
+    Waiting...
+Feedback
+    API Call.
+    Handle: feedback
+    Got API response.[product(321021781)]
+    Duplicate / Variant Detected -- MultiverseID: 105
+    Duplicate -- SKU: 105
+    Waiting...
+Fire Elemental
+    API Call.
+    Handle: fire-elemental
+    Got API response.[product(321021841)]
+    Duplicate / Variant Detected -- MultiverseID: 196
+    Duplicate -- SKU: 196
+    Waiting...
+Fireball
+    API Call.
+    Handle: fireball
+    Got API response.[product(321021913)]
+    Duplicate / Variant Detected -- MultiverseID: 197
+    Duplicate -- SKU: 197
+    Waiting...
+Firebreathing
+    API Call.
+    Handle: firebreathing
+    Got API response.[product(321021997)]
+    Duplicate / Variant Detected -- MultiverseID: 198
+    Duplicate -- SKU: 198
+    Waiting...
+Flashfires
+    API Call.
+    Handle: flashfires
+    Got API response.[product(321022437)]
+    Duplicate / Variant Detected -- MultiverseID: 199
+    Duplicate -- SKU: 199
+    Waiting...
+Flight
+    API Call.
+    Handle: flight
+    Got API response.[product(321023929)]
+    Duplicate / Variant Detected -- MultiverseID: 106
+    Duplicate -- SKU: 106
+    Waiting...
+Fog
+    API Call.
+    Handle: fog
+    Got API response.[product(321023993)]
+    Duplicate / Variant Detected -- MultiverseID: 149
+    Duplicate -- SKU: 149
+    Waiting...
+Force of Nature
+    API Call.
+    Handle: force-of-nature
+    Got API response.[product(321024057)]
+    Duplicate / Variant Detected -- MultiverseID: 150
+    Duplicate -- SKU: 150
+    Waiting...
+Forcefield
+    API Call.
+    Handle: forcefield
+    Got API response.[product(321024145)]
+    Duplicate / Variant Detected -- MultiverseID: 14
+    Duplicate -- SKU: 14
+    Waiting...
+Forest
+    API Call.
+    Handle: forest
+    Got API response.[product(321024205)]
+    Duplicate / Variant Detected -- MultiverseID: 289
+    Duplicate -- SKU: 289
+    Waiting...
+Forest
+    API Call.
+    Handle: forest
+    Got API response.[product(321024205)]
+    Duplicate / Variant Detected -- MultiverseID: 288
+    Adding image for new printing
+    Looking up prices...
+    Handle: alpha-edition
+    Handle: forest
+    Creating variants
+    Tagging product
+    Got API response.
+    Adding product to category
+    Handle: limited-edition-alpha
+    Got API response.
+Fork
+    API Call.
+    Handle: fork
+    Got API response.[product(321034569)]
+    Duplicate / Variant Detected -- MultiverseID: 200
+    Duplicate -- SKU: 200
+    Waiting...
+Frozen Shade
+    API Call.
+    Handle: frozen-shade
+    Got API response.[product(321034645)]
+    Duplicate / Variant Detected -- MultiverseID: 65
+    Duplicate -- SKU: 65
+    Waiting...
+Fungusaur
+    API Call.
+    Handle: fungusaur
+    Got API response.[product(321034717)]
+    Duplicate / Variant Detected -- MultiverseID: 151
+    Duplicate -- SKU: 151
+    Waiting...
+Gaea's Liege
+    API Call.
+    Handle: gaeas-liege
+    Got API response.[product(321034813)]
+    Duplicate / Variant Detected -- MultiverseID: 152
+    Duplicate -- SKU: 152
+    Waiting...
+Gauntlet of Might
+    API Call.
+    Handle: gauntlet-of-might
+    Got API response.[product(321034913)]
+    Duplicate / Variant Detected -- MultiverseID: 15
+    Duplicate -- SKU: 15
+    Waiting...
+Giant Growth
+    API Call.
+    Handle: giant-growth
+    Got API response.[product(321034945)]
+    Duplicate / Variant Detected -- MultiverseID: 153
+    Duplicate -- SKU: 153
+    Waiting...
+Giant Spider
+    API Call.
+    Handle: giant-spider
+    Got API response.[product(321035009)]
+    Duplicate / Variant Detected -- MultiverseID: 154
+    Duplicate -- SKU: 154
+    Waiting...
+Glasses of Urza
+    API Call.
+    Handle: glasses-of-urza
+    Got API response.[product(321035105)]
+    Duplicate / Variant Detected -- MultiverseID: 16
+    Duplicate -- SKU: 16
+    Waiting...
+Gloom
+    API Call.
+    Handle: gloom
+    Got API response.[product(321035205)]
+    Duplicate / Variant Detected -- MultiverseID: 66
+    Duplicate -- SKU: 66
+    Waiting...
+Goblin Balloon Brigade
+    API Call.
+    Handle: goblin-balloon-brigade
+    Got API response.[product(321035285)]
+    Duplicate / Variant Detected -- MultiverseID: 201
+    Duplicate -- SKU: 201
+    Waiting...
+Goblin King
+    API Call.
+    Handle: goblin-king
+    Got API response.[product(321035321)]
+    Duplicate / Variant Detected -- MultiverseID: 202
+    Duplicate -- SKU: 202
+    Waiting...
+Granite Gargoyle
+    API Call.
+    Handle: granite-gargoyle
+    Got API response.[product(321035361)]
+    Duplicate / Variant Detected -- MultiverseID: 203
+    Duplicate -- SKU: 203
+    Waiting...
+Gray Ogre
+    API Call.
+    Handle: gray-ogre
+    Got API response.[product(321035397)]
+    Duplicate / Variant Detected -- MultiverseID: 204
+    Duplicate -- SKU: 204
+    Waiting...
+Green Ward
+    API Call.
+    Handle: green-ward
+    Got API response.[product(321035437)]
+    Duplicate / Variant Detected -- MultiverseID: 251
+    Duplicate -- SKU: 251
+    Waiting...
+Grizzly Bears
+    API Call.
+    Handle: grizzly-bears
+    Got API response.[product(321035473)]
+    Duplicate / Variant Detected -- MultiverseID: 155
+    Duplicate -- SKU: 155
+    Waiting...
+Guardian Angel
+    API Call.
+    Handle: guardian-angel
+    Got API response.[product(321035525)]
+    Duplicate / Variant Detected -- MultiverseID: 252
+    Duplicate -- SKU: 252
+    Waiting...
+Healing Salve
+    API Call.
+    Handle: healing-salve
+    Got API response.[product(321035581)]
+    Duplicate / Variant Detected -- MultiverseID: 253
+    Duplicate -- SKU: 253
+    Waiting...
+Helm of Chatzuk
+    API Call.
+    Handle: helm-of-chatzuk
+    Got API response.[product(321035629)]
+    Duplicate / Variant Detected -- MultiverseID: 17
+    Duplicate -- SKU: 17
+    Waiting...
+Hill Giant
+    API Call.
+    Handle: hill-giant
+    Got API response.[product(321035669)]
+    Duplicate / Variant Detected -- MultiverseID: 205
+    Duplicate -- SKU: 205
+    Waiting...
+Holy Armor
+    API Call.
+    Handle: holy-armor
+    Got API response.[product(321035733)]
+    Duplicate / Variant Detected -- MultiverseID: 254
+    Duplicate -- SKU: 254
+    Waiting...
+Holy Strength
+    API Call.
+    Handle: holy-strength
+    Got API response.[product(321035785)]
+    Duplicate / Variant Detected -- MultiverseID: 255
+    Duplicate -- SKU: 255
+    Waiting...
+Howl from Beyond
+    API Call.
+    Handle: howl-from-beyond
+    Got API response.[product(321035841)]
+    Duplicate / Variant Detected -- MultiverseID: 67
+    Duplicate -- SKU: 67
+    Waiting...
+Howling Mine
+    API Call.
+    Handle: howling-mine
+    Got API response.[product(321035901)]
+    Duplicate / Variant Detected -- MultiverseID: 18
+    Duplicate -- SKU: 18
+    Waiting...
+Hurloon Minotaur
+    API Call.
+    Handle: hurloon-minotaur
+    Got API response.[product(321035957)]
+    Duplicate / Variant Detected -- MultiverseID: 206
+    Duplicate -- SKU: 206
+    Waiting...
+Hurricane
+    API Call.
+    Handle: hurricane
+    Got API response.[product(321036009)]
+    Duplicate / Variant Detected -- MultiverseID: 156
+    Duplicate -- SKU: 156
+    Waiting...
+Hypnotic Specter
+    API Call.
+    Handle: hypnotic-specter
+    Got API response.[product(321036065)]
+    Duplicate / Variant Detected -- MultiverseID: 68
+    Duplicate -- SKU: 68
+    Waiting...
+Ice Storm
+    API Call.
+    Handle: ice-storm
+    Got API response.[product(321036117)]
+    Duplicate / Variant Detected -- MultiverseID: 157
+    Duplicate -- SKU: 157
+    Waiting...
+Icy Manipulator
+    API Call.
+    Handle: icy-manipulator
+    Got API response.[product(321036189)]
+    Duplicate / Variant Detected -- MultiverseID: 19
+    Duplicate -- SKU: 19
+    Waiting...
+Illusionary Mask
+    API Call.
+    Handle: illusionary-mask
+    Got API response.[product(321036253)]
+    Duplicate / Variant Detected -- MultiverseID: 20
+    Duplicate -- SKU: 20
+    Waiting...
+Instill Energy
+    API Call.
+    Handle: instill-energy
+    Got API response.[product(321036349)]
+    Duplicate / Variant Detected -- MultiverseID: 158
+    Duplicate -- SKU: 158
+    Waiting...
+Invisibility
+    API Call.
+    Handle: invisibility
+    Got API response.[product(321036433)]
+    Duplicate / Variant Detected -- MultiverseID: 107
+    Duplicate -- SKU: 107
+    Waiting...
+Iron Star
+    API Call.
+    Handle: iron-star
+    Got API response.[product(321036501)]
+    Duplicate / Variant Detected -- MultiverseID: 21
+    Duplicate -- SKU: 21
+    Waiting...
+Ironclaw Orcs
+    API Call.
+    Handle: ironclaw-orcs
+    Got API response.[product(321036521)]
+    Duplicate / Variant Detected -- MultiverseID: 207
+    Duplicate -- SKU: 207
+    Waiting...
+Ironroot Treefolk
+    API Call.
+    Handle: ironroot-treefolk
+    Got API response.[product(321036557)]
+    Duplicate / Variant Detected -- MultiverseID: 159
+    Duplicate -- SKU: 159
+    Waiting...
+Island
+    API Call.
+    Handle: island
+    Got API response.[product(321036601)]
+    Duplicate / Variant Detected -- MultiverseID: 293
+    Duplicate -- SKU: 293
+    Waiting...
+Island
+    API Call.
+    Handle: island
+    Got API response.[product(321036601)]
+    Duplicate / Variant Detected -- MultiverseID: 292
+    Adding image for new printing
+    Looking up prices...
+    Handle: alpha-edition
+    Handle: island
+    Creating variants
+    Tagging product
+    Got API response.
+    Adding product to category
+    Handle: limited-edition-alpha
+    Got API response.
+Island Sanctuary
+    API Call.
+    Handle: island-sanctuary
+    Got API response.[product(321036661)]
+    Duplicate / Variant Detected -- MultiverseID: 256
+    Duplicate -- SKU: 256
+    Waiting...
+Ivory Cup
+    API Call.
+    Handle: ivory-cup
+    Got API response.[product(321036709)]
+    Duplicate / Variant Detected -- MultiverseID: 22
+    Duplicate -- SKU: 22
+    Waiting...
+Jade Monolith
+    API Call.
+    Handle: jade-monolith
+    Got API response.[product(321036753)]
+    Duplicate / Variant Detected -- MultiverseID: 23
+    Duplicate -- SKU: 23
+    Waiting...
+Jade Statue
+    API Call.
+    Handle: jade-statue
+    Got API response.[product(321036801)]
+    Duplicate / Variant Detected -- MultiverseID: 24
+    Duplicate -- SKU: 24
+    Waiting...
+Jayemdae Tome
+    API Call.
+    Handle: jayemdae-tome
+    Got API response.[product(321036865)]
+    Duplicate / Variant Detected -- MultiverseID: 25
+    Duplicate -- SKU: 25
+    Waiting...
+Juggernaut
+    API Call.
+    Handle: juggernaut
+    Got API response.[product(321036921)]
+    Duplicate / Variant Detected -- MultiverseID: 26
+    Duplicate -- SKU: 26
+    Waiting...
+Jump
+    API Call.
+    Handle: jump
+    Got API response.[product(321037001)]
+    Duplicate / Variant Detected -- MultiverseID: 108
+    Duplicate -- SKU: 108
+    Waiting...
+Karma
+    API Call.
+    Handle: karma
+    Got API response.[product(321037061)]
+    Duplicate / Variant Detected -- MultiverseID: 257
+    Duplicate -- SKU: 257
+    Waiting...
+Keldon Warlord
+    API Call.
+    Handle: keldon-warlord
+    Got API response.[product(321037121)]
+    Duplicate / Variant Detected -- MultiverseID: 208
+    Duplicate -- SKU: 208
+    Waiting...
+Kormus Bell
+    API Call.
+    Handle: kormus-bell
+    Got API response.[product(321037169)]
+    Duplicate / Variant Detected -- MultiverseID: 27
+    Duplicate -- SKU: 27
+    Waiting...
+Kudzu
+    API Call.
+    Handle: kudzu
+    Got API response.[product(321037241)]
+    Duplicate / Variant Detected -- MultiverseID: 160
+    Duplicate -- SKU: 160
+    Waiting...
+Lance
+    API Call.
+    Handle: lance
+    Got API response.[product(321037297)]
+    Duplicate / Variant Detected -- MultiverseID: 258
+    Duplicate -- SKU: 258
+    Waiting...
+Ley Druid
+    API Call.
+    Handle: ley-druid
+    Got API response.[product(321037349)]
+    Duplicate / Variant Detected -- MultiverseID: 161
+    Duplicate -- SKU: 161
+    Waiting...
+Library of Leng
+    API Call.
+    Handle: library-of-leng
+    Got API response.[product(321037417)]
+    Duplicate / Variant Detected -- MultiverseID: 28
+    Duplicate -- SKU: 28
+    Waiting...
+Lich
+    API Call.
+    Handle: lich
+    Got API response.[product(321037481)]
+    Duplicate / Variant Detected -- MultiverseID: 69
+    Duplicate -- SKU: 69
+    Waiting...
+Lifeforce
+    API Call.
+    Handle: lifeforce
+    Got API response.[product(321037629)]
+    Duplicate / Variant Detected -- MultiverseID: 162
+    Duplicate -- SKU: 162
+    Waiting...
+Lifelace
+    API Call.
+    Handle: lifelace
+    Got API response.[product(321037681)]
+    Duplicate / Variant Detected -- MultiverseID: 163
+    Duplicate -- SKU: 163
+    Waiting...
+Lifetap
+    API Call.
+    Handle: lifetap
+    Got API response.[product(321037753)]
+    Duplicate / Variant Detected -- MultiverseID: 109
+    Duplicate -- SKU: 109
+    Waiting...
+Lightning Bolt
+    API Call.
+    Handle: lightning-bolt
+    Got API response.[product(321037813)]
+    Duplicate / Variant Detected -- MultiverseID: 209
+    Duplicate -- SKU: 209
+    Waiting...
+Living Artifact
+    API Call.
+    Handle: living-artifact
+    Got API response.[product(321037869)]
+    Duplicate / Variant Detected -- MultiverseID: 164
+    Duplicate -- SKU: 164
+    Waiting...
+Living Lands
+    API Call.
+    Handle: living-lands
+    Got API response.[product(321037929)]
+    Duplicate / Variant Detected -- MultiverseID: 165
+    Duplicate -- SKU: 165
+    Waiting...
+Living Wall
+    API Call.
+    Handle: living-wall
+    Got API response.[product(321037981)]
+    Duplicate / Variant Detected -- MultiverseID: 29
+    Duplicate -- SKU: 29
+    Waiting...
+Llanowar Elves
+    API Call.
+    Handle: llanowar-elves
+    Got API response.[product(321038033)]
+    Duplicate / Variant Detected -- MultiverseID: 166
+    Duplicate -- SKU: 166
+    Waiting...
+Lord of Atlantis
+    API Call.
+    Handle: lord-of-atlantis
+    Got API response.[product(321038085)]
+    Duplicate / Variant Detected -- MultiverseID: 110
+    Duplicate -- SKU: 110
+    Waiting...
+Lord of the Pit
+    API Call.
+    Handle: lord-of-the-pit
+    Got API response.[product(321038121)]
+    Duplicate / Variant Detected -- MultiverseID: 70
+    Duplicate -- SKU: 70
+    Waiting...
+Lure
+    API Call.
+    Handle: lure
+    Got API response.[product(321038161)]
+    Duplicate / Variant Detected -- MultiverseID: 167
+    Duplicate -- SKU: 167
+    Waiting...
+Magical Hack
+    API Call.
+    Handle: magical-hack
+    Got API response.[product(321038197)]
+    Duplicate / Variant Detected -- MultiverseID: 111
+    Duplicate -- SKU: 111
+    Waiting...
+Mahamoti Djinn
+    API Call.
+    Handle: mahamoti-djinn
+    Got API response.[product(321038221)]
+    Duplicate / Variant Detected -- MultiverseID: 112
+    Duplicate -- SKU: 112
+    Waiting...
+Mana Flare
+    API Call.
+    Handle: mana-flare
+    Got API response.[product(321038261)]
+    Duplicate / Variant Detected -- MultiverseID: 210
+    Duplicate -- SKU: 210
+    Waiting...
+Mana Short
+    API Call.
+    Handle: mana-short
+    Got API response.[product(321038301)]
+    Duplicate / Variant Detected -- MultiverseID: 113
+    Duplicate -- SKU: 113
+    Waiting...
+Mana Vault
+    API Call.
+    Handle: mana-vault
+    Got API response.[product(321038337)]
+    Duplicate / Variant Detected -- MultiverseID: 30
+    Duplicate -- SKU: 30
+    Waiting...
+Manabarbs
+    API Call.
+    Handle: manabarbs
+    Got API response.[product(321038381)]
+    Duplicate / Variant Detected -- MultiverseID: 211
+    Duplicate -- SKU: 211
+    Waiting...
+Meekstone
+    API Call.
+    Handle: meekstone
+    Got API response.[product(321038425)]
+    Duplicate / Variant Detected -- MultiverseID: 31
+    Duplicate -- SKU: 31
+    Waiting...
+Merfolk of the Pearl Trident
+    API Call.
+    Handle: merfolk-of-the-pearl-trident
+    Got API response.[product(321038477)]
+    Duplicate / Variant Detected -- MultiverseID: 114
+    Duplicate -- SKU: 114
+    Waiting...
+Mesa Pegasus
+    API Call.
+    Handle: mesa-pegasus
+    Got API response.[product(321039873)]
+    Duplicate / Variant Detected -- MultiverseID: 259
+    Duplicate -- SKU: 259
+    Waiting...
+Mind Twist
+    API Call.
+    Handle: mind-twist
+    Got API response.[product(321040137)]
+    Duplicate / Variant Detected -- MultiverseID: 71
+    Duplicate -- SKU: 71
+    Waiting...
+Mons's Goblin Raiders
+    API Call.
+    Handle: monss-goblin-raiders
+    Got API response.[product(321040169)]
+    Duplicate / Variant Detected -- MultiverseID: 212
+    Duplicate -- SKU: 212
+    Waiting...
+Mountain
+    API Call.
+    Handle: mountain
+    Got API response.[product(321040197)]
+    Duplicate / Variant Detected -- MultiverseID: 290
+    Duplicate -- SKU: 290
+    Waiting...
+Mountain
+    API Call.
+    Handle: mountain
+    Got API response.[product(321040197)]
+    Duplicate / Variant Detected -- MultiverseID: 291
+    Adding image for new printing
+    Looking up prices...
+    Handle: alpha-edition
+    Handle: mountain
+    Creating variants
+    Tagging product
