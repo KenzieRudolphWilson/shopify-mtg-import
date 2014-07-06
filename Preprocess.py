@@ -36,7 +36,7 @@ def findMostSimilar(imageText, vocabulary):
         if similarity > bestSimilarity:
             bestSimilarity = similarity
             mostSimilarWord = word
-    return mostSimilarWord
+    return mostSimilarWord, bestSimilarity
 
 
 def drawCaptureBox(image, x, y, length, height):
@@ -45,10 +45,6 @@ def drawCaptureBox(image, x, y, length, height):
     cv2.line(image,(x + length, y + height),(x + length, y),(0,255,0),2)
     cv2.line(image,(x + length, y),(x, y),(0,255,0),2)
     return image
-
-
-def checkForCard(text, names):
-    return findMostSimilar(text, names)
 
 
 nameList = getNameList()
@@ -60,6 +56,90 @@ x = 100
 y = 100
 length = 200
 height = 50
+
+cardHeight = 300
+cardWidth = 100
+while(True):
+    # Capture frame-by-frame
+    ret, frame = cap.read()
+
+    # High tech UI
+    key = cv2.waitKey(1)
+    if key & 0xFF == ord('w'):
+        y -= 3
+    if key & 0xFF == ord('s'):
+        y += 3
+    if key & 0xFF == ord('d'):
+        x += 3
+    if key & 0xFF == ord('a'):
+        s -= 3
+    if key & 0xFF == ord('q'):
+        break
+    if key & 0xFF == ord('t'):
+        t += 2
+    if key & 0xFF == ord('g'):
+        t -= 2
+    if key & 0xFF == ord('y'):
+        thresh = -thresh
+    if key & 0xFF == ord('p'):
+        cv2.imwrite('capture.png', croppedTop)
+        textTop = OCR.giveMeText()
+        print "Read Text From Top of Card:" + textTop
+        mostSimilarNameTop, errorDistanceTop = findMostSimilar(textTop, nameList)
+        print "Most Similar :" + mostSimilarNameTop + ", with error distance :" + str(errorDistanceTop)
+        cv2.imwrite('capture.png', croppedBottom)
+        textBottom = OCR.giveMeText()
+        print "Read Text From Bottom of Card:" + textBottom
+        mostSimilarNameBottom, errorDistanceBottom = findMostSimilar(textBottom, nameList)
+        print "Most Similar :" + mostSimilarNameBottom + ", with error distance :" + str(errorDistanceBottom)
+
+        if (mostSimilarNameTop != ''):
+            if (mostSimilarNameBottom != ''):
+                if (errorDistanceTop <= errorDistanceBottom):
+                    print "Top is closer to a real magic card name"
+                else:
+                    print "Bottom is closer to a real magic card name"
+            else:
+                print "Bottom not found, bottom chosen"
+        elif (mostSimilarNameBottom != ''):
+            print "Top not found, bottom chosen"
+        else:
+            print "No cards detected"
+
+
+    croppedTop = crop(frame, x, y, length, height)
+    croppedBottom = crop(frame, x + cardWidth, y + cardHeight, length, height)
+    frame = drawCaptureBox(frame, x, y, length, height)
+    frame = drawCaptureBox(frame, x + cardWidth, y + cardHeight, length, height)
+    
+    if(thresh):
+        croppedTop = cv2.cvtColor(croppedTop, cv2.COLOR_BGR2GRAY)
+        croppedTop = cv2.GaussianBlur(croppedTop,(1,1),0)
+        t,croppedTop = cv2.threshold(croppedTop,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+        croppedBottom = cv2.cvtColor(croppedBottom, cv2.COLOR_BGR2GRAY)
+        croppedBottom = cv2.GaussianBlur(croppedBottom,(1,1),0)
+        t,croppedBottom = cv2.threshold(croppedBottom,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU) 
+
+    croppedTop = chopOffEdges(croppedTop, 2, 2, 2, 2)
+    croppedBottom = chopOffEdges(croppedBottom, 2, 2, 2, 2)
+    rows,cols = croppedBottom.shape
+
+    M = cv2.getRotationMatrix2D((cols/2,rows/2),180,1)
+    croppedBottom = cv2.warpAffine(croppedBottom, M, (cols,rows))
+    cv2.imshow('frame',frame)
+    cv2.imshow('croppedTop',croppedTop)
+    cv2.imshow('croppedBottom',croppedBottom)
+
+
+
+
+
+# When everything done, release the capture
+cap.release()
+cv2.destroyAllWindows()
+
+
+
 while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()

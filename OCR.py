@@ -8,7 +8,7 @@ def giveMeText():
 	api = tesseract.TessBaseAPI()
 	api.Init(".","eng",tesseract.OEM_DEFAULT)
 	api.SetVariable("tessedit_char_whitelist", "abcdefghijklmnopqrstuvwxyz-ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-	api.SetPageSegMode(7)
+	api.SetPageSegMode(tesseract.PSM_AUTO)
 	
 	image=cv.LoadImage("capture.png", cv2.CV_LOAD_IMAGE_COLOR)
 	#image=cv2.imread("capture.png",0)
@@ -16,8 +16,8 @@ def giveMeText():
 	#cv.SetData(iplimage, image.tostring(),image.dtype.itemsize*image.shape[1])
 	tesseract.SetCvImage(image,api)
 	text=api.GetUTF8Text()
-	conf=api.MeanTextConf()
-	print text
-	print conf
+	conf=api.AllWordConfidences()
+	print "text:" + str(text)
+	print "confidence:" + str(conf)
 	api.End()
 	return text
